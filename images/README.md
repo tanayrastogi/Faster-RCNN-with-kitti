@@ -1,0 +1,1 @@
+**This folder contains a copy of all the images in our dataset, as well as the respective *.xml files produced for each one, once labelImg is used to annotate objects.**
